@@ -1,3 +1,8 @@
+'''
+Python script for doing hierarchical clustering on word embeddings and presenting results as dendrogram.
+Input data format: a word file with each line containing a word, and an embedding file with each line containing the corresponding embedding vector. Each dimension of embedding separated by a tab.
+'''
+
 import sys
 import pdb
 
